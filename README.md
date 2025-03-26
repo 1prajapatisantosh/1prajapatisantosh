@@ -5,19 +5,17 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+const santosh = {
+  pronouns: "he" | "him",
+  code: [Javascript, Python, C, C++, HTML, CSS, SQL],
+  tools: [Bootstrap, Linux, Networking, Web Development],
+  architecture: [],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+                        contributor: "GeeksforGeeks",
+                        participant: "Coding contests and hackathons"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  challenge: true
 }
-```
 
 
 ###
@@ -88,4 +86,3 @@ const thai = {
 
 [![](https://visitcount.itsvg.in/api?id=1prajapatisantosh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
