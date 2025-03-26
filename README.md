@@ -86,3 +86,8 @@ const santosh = {
 
 [![](https://visitcount.itsvg.in/api?id=1prajapatisantosh&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/1prajapatisantosh/1prajapatisantosh/output/snake.svg" alt="Snake animation" />
+
+###
