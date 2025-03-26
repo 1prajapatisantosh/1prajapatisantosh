@@ -27,7 +27,7 @@ const santosh = {
 
 ###
 
-<img align="right" height="150" src="https://png.pngtree.com/png-clipart/20230913/original/pngtree-coder-clipart-boy-working-with-computer-game-on-the-desk-vector-png-image_11072679.png"  />
+<img align="right" height="150" src="https://camo.githubusercontent.com/e5f30d804f0ac2e6305662f39cea609bcf0f0d5714d57c0ca3c27f510d70ddf8/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f6d656469612f34356463656236343037323364373234333663343237616464373936366366382e676966"  />
 
 ###
 
@@ -79,7 +79,7 @@ const santosh = {
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=1prajapatisantosh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+### 🖝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=1prajapatisantosh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <br clear="both">
@@ -91,5 +91,3 @@ const santosh = {
 ---
 
 [![](https://visitcount.itsvg.in/api?id=1prajapatisantosh&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
