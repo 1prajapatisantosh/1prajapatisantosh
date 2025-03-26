@@ -10,6 +10,12 @@
 
 ###
 
+<div align="center">
+  ![](https://nirzak-streak-stats.vercel.app/?user=1prajapatisantosh&theme=dark&hide_border=false)
+</div>
+
+###
+
 <img align="right" height="150" src="https://png.pngtree.com/png-clipart/20230913/original/pngtree-coder-clipart-boy-working-with-computer-game-on-the-desk-vector-png-image_11072679.png"  />
 
 ###
