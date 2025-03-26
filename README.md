@@ -1,7 +1,18 @@
 <br clear="both">
 
 <h2 align="left">Hi 👋!<br> My name is Santosh  and I'm a Software Developer</h2>  
-
+const santosh = {
+  pronouns: "he" | "him",
+  code: [C, C++, Python, JavaScript, HTML, CSS],
+  tools: [React, Node.js, Express, MongoDB, Docker, Postman],
+  architecture: ["microservices", "REST APIs", "MVC Pattern"],
+  techCommunities: {
+                        contributor: "GeeksforGeeks",
+                        participant: "Hackathons & Coding Contests",
+                        mentor: "Helping peers with DSA and Web Development"
+                    },
+  challenge: "Currently mastering backend development and improving my DSA skills."
+}
 ###
 
 <div align="center">
