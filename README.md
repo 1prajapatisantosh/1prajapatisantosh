@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  ![](https://nirzak-streak-stats.vercel.app/?user=1prajapatisantosh&theme=dark&hide_border=false)
+  ![](https://nirzak-streak-stats.vercel.app/?user=1prajapatisantosh&theme=dark&hide_border=false)<br/>
 </div>
 
 ###
