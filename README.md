@@ -27,7 +27,7 @@ const santosh = {
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1prajapatisantosh&show_icons=true&theme=dracula&count_private=true&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1prajapatisantosh&show_icons=true&theme=dracula&count_private=true&cache_seconds=1800&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1prajapatisantosh&theme=dark&hide_border=false&layout=compact" height="150" alt="languages graph" />
 </div>
 
