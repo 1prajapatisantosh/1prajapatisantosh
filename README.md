@@ -102,7 +102,7 @@ const santosh = {
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/1prajapatisantosh/1prajapatisantosh/output/snake.svg" alt="Snake animation" />
+
 
 ---
 
