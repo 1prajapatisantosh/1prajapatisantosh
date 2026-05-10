@@ -30,7 +30,7 @@ const santosh = {
 ---
 
 ### 📊 GitHub Stats
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1prajapatisantosh&theme=dracula)
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=1prajapatisantosh&show_icons=true&theme=dracula" height="150" alt="stats graph" />
 
@@ -94,4 +94,4 @@ const santosh = {
 ---
 ## 🔝 Top Contributed Repo
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1prajapatisantosh&theme=dracula)
+![](https://github-contributor-stats.vercel.app/api?username=1prajapatisantosh&limit=5&theme=dracula)
