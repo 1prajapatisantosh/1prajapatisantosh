@@ -32,9 +32,9 @@ const santosh = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1prajapatisantosh&show_icons=true&theme=dracula&count_private=true" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1prajapatisantosh&layout=compact&theme=dracula" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=1prajapatisantosh&show_icons=true&theme=dracula" height="150" alt="stats graph" />
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1prajapatisantosh&layout=compact&theme=dracula" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
