@@ -30,8 +30,9 @@ const santosh = {
 ---
 
 ### 📊 GitHub Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1prajapatisantosh&theme=dracula)
+
 <div align="center">
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1prajapatisantosh&theme=dracula)
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=1prajapatisantosh&show_icons=true&theme=dracula" height="150" alt="stats graph" />
 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1prajapatisantosh&layout=compact&theme=dracula" height="150" alt="languages graph" />
