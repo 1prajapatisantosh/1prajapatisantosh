@@ -15,16 +15,89 @@ My name is Santosh and I'm a Software Developer
 
 ```javascript
 const santosh = {
-  pronouns: "he" | "him",
-  code: [Javascript, Python, C, C++, HTML, CSS, SQL],
-  tools: [Bootstrap, Linux, Networking, Web Development],
-  architecture: [],
-  techCommunities: {
-    contributor: "GeeksforGeeks",
-    participant: "Coding contests and hackathons"
+  pronouns: "he/him",
+
+  education: {
+    degree: "B.Tech CSE",
+    college: "USICT, GGSIPU",
+    cgpa: "8.33"
   },
-  challenge: true
-}
+
+  languages: [
+    "C++",
+    "Python",
+    "C",
+    "JavaScript",
+    "Java",
+    "SQL"
+  ],
+
+  frontend: [
+    "React.js",
+    "HTML5",
+    "CSS3",
+    "Bootstrap",
+    "Tailwind CSS"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express.js",
+    "FastAPI"
+  ],
+
+  databases: [
+    "MySQL",
+    "MongoDB",
+    "PostgreSQL",
+    "Firebase"
+  ],
+
+  cybersecurity: [
+    "Wireshark",
+    "OWASP ZAP",
+    "WebGoat",
+    "Penetration Testing"
+  ],
+
+  ai_ml: [
+    "Scikit-learn",
+    "Machine Learning",
+    "Random Forest"
+  ],
+
+  blockchain: [
+    "Solidity",
+    "Ethereum",
+    "Web3.js"
+  ],
+
+  tools: [
+    "Git",
+    "Linux",
+    "Binance API",
+    "ccxt",
+    "TA-Lib"
+  ],
+
+  interests: [
+    "Cyber Security",
+    "AI",
+    "Web Development",
+    "Blockchain",
+    "Trading Automation"
+  ],
+
+  achievements: {
+    leetcode_gfg: "300+ problems solved",
+    bug_bounty: "Ranked 12th in Jobbie Bug Bounty Contest",
+    gfg_contest: "Ranked 22nd in GeeksforGeeks Weekly Contest"
+  },
+
+  currentFocus: "Building scalable AI and security-focused applications",
+
+  challenge: "Always learning and building 🚀"
+};
 ```
 
 ---
