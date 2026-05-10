@@ -94,4 +94,4 @@ const santosh = {
 ---
 ## 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=1prajapatisantosh&limit=5&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1prajapatisantosh&theme=dracula)
