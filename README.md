@@ -32,15 +32,14 @@ const santosh = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1prajapatisantosh&show_icons=true&theme=dracula&count_private=true&cache_seconds=1800&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1prajapatisantosh&theme=dark&hide_border=false&layout=compact" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1prajapatisantosh&show_icons=true&theme=dracula&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1prajapatisantosh&layout=compact&theme=dracula" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=1prajapatisantosh&theme=dark&hide_border=false" height="150" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=1prajapatisantosh&theme=dracula" height="150" alt="streak stats" />
 </div>
-
----
 
 ### 🛠 Tech Stack
 
