@@ -30,8 +30,14 @@ const santosh = {
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1prajapatisantosh&theme=dracula" height="150" alt="stats summary" />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=1prajapatisantosh&show_icons=true&theme=dracula" height="150" alt="stats card" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=1prajapatisantosh&layout=compact&theme=dracula" height="150" alt="languages card" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=1prajapatisantosh&show_icons=true&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=1prajapatisantosh&layout=compact&theme=dracula" height="150" alt="languages graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=1prajapatisantosh&theme=dracula" height="150" alt="streak stats" />
 </div>
 
 <br>
@@ -84,6 +90,14 @@ const santosh = {
   </a>
 
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=1prajapatisantosh&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="github trophies" />
 </div>
 
 ---
