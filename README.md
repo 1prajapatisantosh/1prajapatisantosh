@@ -7,7 +7,7 @@ My name is Santosh and I'm a Software Developer
 
 ![Profile views](https://komarev.com/ghpvc/?username=1prajapatisantosh&label=Profile%20views&color=0e75b6&style=flat)
 
-<img src="https://camo.githubusercontent.com/5390fb2253dd6a6772a57b9cafe9e4a89992d7dbab6ac5fca11f144e03ebfd7c/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f6d656469612f34356463656236343037323364373234333663343237616464373936366366382e676966" width="300"/>
+<img src="https://camo.githubusercontent.com/5390fb2253dd6a6772a57b9cafe9e4a89992d7dbab6ac5fca11f144e03ebfd7c/68747470733a2f2f63646e2e6472696262626c652e636f6d2f757365723d323133313939332f73637265656e73686f74732f343934383733362f6d656469612f34356463656236343037323364373234333663343237616464373936366366382e676966" width="300"/>
 
 ---
 
@@ -30,14 +30,8 @@ const santosh = {
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1prajapatisantosh&theme=dracula" height="150" alt="stats summary" />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=1prajapatisantosh&show_icons=true&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=1prajapatisantosh&layout=compact&theme=dracula" height="150" alt="languages graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=1prajapatisantosh&theme=dracula" height="150" alt="streak stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=1prajapatisantosh&show_icons=true&theme=dracula" height="150" alt="stats card" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=1prajapatisantosh&layout=compact&theme=dracula" height="150" alt="languages card" />
 </div>
 
 <br>
@@ -97,7 +91,7 @@ const santosh = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=1prajapatisantosh&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="github trophies" />
+  <img src="https://github-profile-trophy-nu.vercel.app/?username=1prajapatisantosh&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="github trophies" />
 </div>
 
 ---
