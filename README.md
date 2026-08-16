@@ -28,13 +28,10 @@ const santosh = {
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1prajapatisantosh&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=1prajapatisantosh&show_icons=true&theme=dracula" height="150" alt="stats graph" />
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1prajapatisantosh&layout=compact&theme=dracula" height="150" alt="languages graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1prajapatisantosh&show_icons=true&theme=dracula&hide_border=false" alt="Santosh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1prajapatisantosh&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" />
+</p>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=1prajapatisantosh&theme=dracula" height="150" alt="streak stats" />
@@ -88,9 +85,9 @@ const santosh = {
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=1prajapatisantosh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=1prajapatisantosh&theme=dracula&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 ## 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=1prajapatisantosh&limit=5&theme=dracula)
+[![Top Contributed](https://github-contributor-stats.vercel.app/api?username=1prajapatisantosh&limit=5&theme=dracula)](https://github.com/1prajapatisantosh)
